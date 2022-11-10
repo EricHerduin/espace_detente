@@ -4,7 +4,6 @@ import "./css/style.css";
 import reportWebVitals from "./reportWebVitals";
 import { RouterProvider } from "react-router-dom";
 import routing from "./routes";
-import "https://kit.fontawesome.com/ef204fd57f.js";
 
 const router = routing;
 

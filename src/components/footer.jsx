@@ -1,5 +1,4 @@
 import logo from "../Assets/LogoEspaceDetenteWhite.png";
-import "https://kit.fontawesome.com/ef204fd57f.js";
 
 export default function Footer() {
   return (
